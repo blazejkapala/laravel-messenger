@@ -10,6 +10,8 @@ use Illuminate\Database\Eloquent\SoftDeletes;
 
 /**
  * @method static Builder|self unreadForUser(mixed $userId)
+ * test
+ * cos
  */
 class Message extends Eloquent
 {
